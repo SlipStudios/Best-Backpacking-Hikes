@@ -51,8 +51,9 @@ body {
 
 .page-details {
     background: white;
-    width: 1100px;
-    height: 700px;
+    padding: 50px;
+    width: 57.29%;
+    height: 64.81%;
     margin-left: 21.35%;
     margin-top: 10.50%;
 }
