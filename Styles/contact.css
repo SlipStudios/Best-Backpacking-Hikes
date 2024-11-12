@@ -60,27 +60,13 @@ body {
     display: flex;
     justify-self: center;
     font-size: 23px;
-    font-weight: 600;
+    font-weight: 700;
 }
-.page-details .info p {
-    display: flex;
-    justify-self: center;
-    font-size: 25px;
-}
-.page-details .info a {
-    display: flex;
-    justify-self: center;
-    text-decoration: none;
-    color: white;
-    background: rgb(88, 88, 88);
-    border-radius: 50px;
-    border: 15px solid rgb(88, 88, 88);
-    font-weight: 600;
-    font-size: 20px;
-    transition: 0.1s;
-}
-.page-details .info a:hover {
-    color: black;
-    background: rgb(255, 255, 255);
-    border: 15px solid rgb(255, 255, 255);
+.page-details .info input[type="text"], input[type="email"] {
+    width: 400px;
+    height: 60px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
 }
