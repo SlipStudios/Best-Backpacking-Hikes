@@ -54,8 +54,10 @@ body {
     padding: 50px;
     width: 57.29%;
     height: 64.81%;
-    margin-left: 20.05%;
-    margin-top: 11.28%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 .page-details .title {
     display: flex;
