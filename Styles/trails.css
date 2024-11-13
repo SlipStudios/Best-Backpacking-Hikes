@@ -45,17 +45,3 @@ body {
 .navbar .left a:hover {
     color: rgb(49, 194, 81);
 }
-
-
-
-
-.page-details {
-    background: white;
-    padding: 50px;
-    width: 57.29%;
-    height: 64.81%;
-    max-width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 10.5%;
-}

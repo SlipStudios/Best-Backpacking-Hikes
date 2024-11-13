@@ -2,29 +2,40 @@
 <html>
     <header>
         <title>Best Backpacking Hikes - Contact</title>
-        <link rel="stylesheet" href="Styles/style.css">
+        <link rel="stylesheet" href="Styles/contact.css">
     </header>
     <body>
         <div class="navbar">
             <div class="left">
                 <a href="index.html"><img src="Styles/Images/Logo 1.png"></a>
                 <a href="index.html">Home</a>
-                <a href="#">Trails</a>
+                <a href="trails.html">Trails</a>
                 <a href="#">Info</a>
-                <a href="#">Contact</a>
+                <a href="contact.html">Contact</a>
             </div>
         </div>
         <div class="page-details">
-            <div class="title">
-                <h1>Contact</h1>
-            </div>
-            <div class="info"> Name, Email, Contact Reason
-                <form>
-                    <input type="text" placeholder="name (optional)" maxlength="100">
-                    <input type="email" placeholder="email" maxlength="100" required>
-                    <input type="text" placeholder="Contact Reason" maxlength="500" required>
-                </form>
-            </div>
+            <h2>Contact Us</h2>
+            <form id="contactForm">
+                <label for="name">Name:</label>
+                <br>
+                <input type="text" id="name" name="name" required>
+                <br>
+                <br>
+                <label for="email">Email:</label>
+                <br>
+                <input type="email" id="email" name="email" required>
+                <br>
+                <br>
+                <label for="message">Message:</label>
+                <br>
+                <textarea id="message" name="message" rows="5" required></textarea>
+                <br>
+                <button type="submit">Send Message</button>
+            </form>
+        
+            <p id="responseMessage"></p>
         </div>
+        <script src="JS/contact.js"></script>
     </body>
 </html>
