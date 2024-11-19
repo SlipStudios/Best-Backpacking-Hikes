@@ -45,3 +45,689 @@ body {
 .navbar .left a:hover {
     color: rgb(49, 194, 81);
 }
+
+
+
+
+.US-Trails {
+    background: white;
+    padding: 50px;
+    width: 57.29%;
+    height: 64.81%;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10.5%;
+}
+.US-Trails #title {
+    color: red;
+    font-size: 50px;
+    margin-left: 36%;
+}
+.US-Trails .Wyoming #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Wyoming h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -30vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Wyoming p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -23vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Wyoming a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 12.5%;
+    transition: 0.1s;
+}
+.US-Trails .Wyoming a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Utah {
+    margin-top: 100px;
+}
+.US-Trails .Utah #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Utah h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -25vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Utah p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -18vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Utah a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 10.5%;
+    transition: 0.1s;
+}
+.US-Trails .Utah a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Alaska {
+    margin-top: 100px;
+}
+.US-Trails .Alaska #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Alaska h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -30vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Alaska p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -23vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Alaska a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 12.5%;
+    transition: 0.1s;
+}
+.US-Trails .Alaska a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Nebraska {
+    margin-top: 100px;
+}
+.US-Trails .Nebraska #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Nebraska h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -25vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Nebraska p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -18vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Nebraska a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 10.5%;
+    transition: 0.1s;
+}
+.US-Trails .Nebraska a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .New-Jersey {
+    margin-top: 100px;
+}
+.US-Trails .New-Jersey #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .New-Jersey h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -30vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .New-Jersey p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -23vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .New-Jersey a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 12.5%;
+    transition: 0.1s;
+}
+.US-Trails .New-Jersey a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Kentucky {
+    margin-top: 100px;
+}
+.US-Trails .Kentucky #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Kentucky h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -25vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Kentucky p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -18vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Kentucky a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 10.5%;
+    transition: 0.1s;
+}
+.US-Trails .Kentucky a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .California {
+    margin-top: 100px;
+}
+.US-Trails .California #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .California h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -30vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .California p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -23vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .California a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 12.5%;
+    transition: 0.1s;
+}
+.US-Trails .California a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Texas {
+    margin-top: 100px;
+}
+.US-Trails .Texas #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Texas h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -25vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Texas p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -18vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Texas a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 10.5%;
+    transition: 0.1s;
+}
+.US-Trails .Texas a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Colorado {
+    margin-top: 100px;
+}
+.US-Trails .Colorado #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Colorado h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -30vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Colorado p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -23vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Colorado a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 12.5%;
+    transition: 0.1s;
+}
+.US-Trails .Colorado a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Maryland {
+    margin-top: 100px;
+}
+.US-Trails .Maryland #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Maryland h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -25vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Maryland p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -18vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Maryland a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 10.5%;
+    transition: 0.1s;
+}
+.US-Trails .Maryland a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Connecticut {
+    margin-top: 100px;
+}
+.US-Trails .Connecticut #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Connecticut h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -30vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Connecticut p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -23vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Connecticut a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 12.5%;
+    transition: 0.1s;
+}
+.US-Trails .Connecticut a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Florida {
+    margin-top: 100px;
+}
+.US-Trails .Florida #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Florida h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -25vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Florida p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -18vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Florida a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 10.5%;
+    transition: 0.1s;
+}
+.US-Trails .Florida a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Missouri {
+    margin-top: 100px;
+}
+.US-Trails .Missouri #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Missouri h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -30vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Missouri p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -23vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Missouri a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 12.5%;
+    transition: 0.1s;
+}
+.US-Trails .Missouri a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Idaho {
+    margin-top: 100px;
+}
+.US-Trails .Idaho #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Idaho h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -25vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Idaho p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -18vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Idaho a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 10.5%;
+    transition: 0.1s;
+}
+.US-Trails .Idaho a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Illinois {
+    margin-top: 100px;
+}
+.US-Trails .Illinois #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Illinois h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -30vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Illinois p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -23vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Illinois a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 12.5%;
+    transition: 0.1s;
+}
+.US-Trails .Illinois a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
+
+
+.US-Trails .Montana {
+    margin-top: 100px;
+}
+.US-Trails .Montana #one {
+    width: 40%;
+    height: 40%;
+}
+.US-Trails .Montana h2 {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -25vh;
+    font-size: 30px;
+    font-weight: 600;
+}
+.US-Trails .Montana p {
+    position: absolute;
+    margin-left: 25%;
+    margin-top: -18vh;
+    font-size: 20px;
+    width: 30%;
+    height: 12vh;
+}
+.US-Trails .Montana a {
+    position: absolute;
+    font-weight: 600;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    background: rgb(88, 88, 88);
+    border-radius: 50px;
+    border: 15px solid rgb(88, 88, 88);
+    margin-left: 25%;
+    margin-top: 10.5%;
+    transition: 0.1s;
+}
+.US-Trails .Montana a:hover {
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+}
